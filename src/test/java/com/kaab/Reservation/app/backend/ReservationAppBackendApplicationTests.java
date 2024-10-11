@@ -15,6 +15,7 @@ class ReservationAppBackendApplicationTests {
 	@Test
 	void contextLoads() {
 		logger.info("Test Case executing...");
+		logger.info("ANOTHER TEST CASE FOR CI/CD");
 		assertEquals(true,true);
 	}
 
